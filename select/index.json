@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Gore Diner",
+  "base_artist": "wotaku",
+  "createdAt": "2025-12-23T01:22:18.386641Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gore Diner",
+      "artist": "wotaku",
+      "has_synced": false,
+      "path": "select/pl_01_Gore_Diner_wotaku.txt"
+    }
+  ]
+}
